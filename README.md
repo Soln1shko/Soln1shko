@@ -24,6 +24,7 @@
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Redis](https://skillicons.dev/icons?i=redis)
+![Cassandra](https://skillicons.dev/icons?i=cassandra)
 ![Kafka](https://skillicons.dev/icons?i=kafka)
 
 ### Веб-фреймворки
