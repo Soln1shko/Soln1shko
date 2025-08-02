@@ -11,43 +11,29 @@
 ## Технический стек
 
 ### Языки программирования
-![Python](https://skillicons.dev/icons?i=python)
-![Go](https://skillicons.dev/icons?i=go)
+[![Languages](https://skillicons.dev/icons?i=python,go&perline=2)](https://skillicons.dev)
 
 ### Машинное обучение и анализ данных
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
+[![MachineLearning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4)](https://skillicons.dev)
 
 ### Базы данных
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![Cassandra](https://skillicons.dev/icons?i=cassandra)
-![Kafka](https://skillicons.dev/icons?i=kafka)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,cassandra,kafka&perline=4)](https://skillicons.dev)
 
 ### Веб-фреймворки
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
+[![WebFrameworks](https://skillicons.dev/icons?i=fastapi,flask&perline=2)](https://skillicons.dev)
 
 ### Облачные платформы
-![AWS](https://skillicons.dev/icons?i=aws)
-![GCP](https://skillicons.dev/icons?i=gcp)
+[![CloudPlatforms](https://skillicons.dev/icons?i=aws,gcp&perline=2)](https://skillicons.dev)
 
 ### Инструменты разработки и DevOps
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Git](https://skillicons.dev/icons?i=git)
+[![DevelopmentTools](https://skillicons.dev/icons?i=docker,kubernetes,terraform,git&perline=4)](https://skillicons.dev)
 
 ### Мониторинг и observability
-![Grafana](https://skillicons.dev/icons?i=grafana)
-![Prometheus](https://skillicons.dev/icons?i=prometheus)
+[![MonitoringAndObservability](https://skillicons.dev/icons?i=grafana,prometheus&perline=2)](https://skillicons.dev)
 
 ### Другие инструменты
-![Postman](https://skillicons.dev/icons?i=postman)
-![Obsidian](https://skillicons.dev/icons?i=obsidian)
+[![Other](https://skillicons.dev/icons?i=postman,obsidian&perline=2)](https://skillicons.dev)
 
-
-
+### Статистика
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soln1shko&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
