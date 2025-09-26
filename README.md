@@ -3,37 +3,41 @@
 </div>
 
 
-##  О себе
-    Студент: НИТУ МИСиС
 
-    Telegram: @TvoiLD
       
-## Технический стек
+## О себе
 
-### Языки программирования
-[![Languages](https://skillicons.dev/icons?i=python,go&perline=2)](https://skillicons.dev)
+**Data Engineer** | 19 лет | Москва, Россия  
+Telegram: @TvoiLD
 
-### Машинное обучение и анализ данных
-[![MachineLearning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4)](https://skillicons.dev)
+---
 
-### Базы данных
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,cassandra,kafka&perline=4)](https://skillicons.dev)
+## Образование
 
-### Веб-фреймворки
-[![WebFrameworks](https://skillicons.dev/icons?i=fastapi,flask&perline=2)](https://skillicons.dev)
+**Национальный исследовательский технологический университет «МИСИС»**  
+Институт компьютерных наук  
+Специальность: Информатика и вычислительная техника  
+Дневная форма обучения, окончание в 2027 году
 
-### Облачные платформы
-[![CloudPlatforms](https://skillicons.dev/icons?i=aws,gcp&perline=2)](https://skillicons.dev)
 
-### Инструменты разработки и DevOps
-[![DevelopmentTools](https://skillicons.dev/icons?i=docker,kubernetes,terraform,git&perline=4)](https://skillicons.dev)
 
-### Мониторинг и observability
-[![MonitoringAndObservability](https://skillicons.dev/icons?i=grafana,prometheus&perline=2)](https://skillicons.dev)
+## Технические навыки
 
-### Другие инструменты
-[![Other](https://skillicons.dev/icons?i=postman,obsidian&perline=2)](https://skillicons.dev)
+### Обработка и управление данными (Data Engineering Core)
+- Языки программирования: Python, SQL
+- Фреймворки и библиотеки для обработки данных: Pandas, Apache Airflow
+- Библиотеки для парсинга и сбора данных: Beautiful Soup, Selenium, Playwright, Requests, aiohttp, asyncio
+- Платформы для больших данных: Apache Kafka
+- Инструменты оркестрации: Apache Airflow, Prefect[1]
 
-### Статистика
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soln1shko&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Базы данных и хранилища данных
+- Реляционные СУБД и MPP-системы: PostgreSQL, Yandex Query (YQ)
+- NoSQL базы данных: Cassandra, MongoDB
+- Хранилища данных (Data Warehouses): Yandex Cloud Data Proc, AWS Redshift / S3
+- Инструменты для работы с данными: Yandex Datalens[1]
 
+### Облачная инфраструктура и DevOps (DataOps)
+- Облачные платформы: Yandex Cloud (основной), AWS (дополнительно)
+- Контейнеризация и оркестрация: Docker
+
+---
