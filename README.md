@@ -10,7 +10,7 @@
 **Data Engineer** | 19 лет | Москва, Россия  
 Telegram: @TvoiLD
 
-***
+
 
 ## Образование
 
@@ -19,23 +19,29 @@ Telegram: @TvoiLD
 Специальность: Информатика и вычислительная техника  
 
 
-## Технические навыки
 
-### Обработка и управление данными (Data Engineering Core)
-- Языки программирования: Python, SQL
-- Фреймворки и библиотеки для обработки данных: Pandas, Apache Airflow
-- Библиотеки для парсинга и сбора данных: Beautiful Soup, Selenium, Playwright, Requests, aiohttp, asyncio
-- Платформы для больших данных: Apache Kafka
-- Инструменты оркестрации: Apache Airflow, Prefect
+## ТЕХНИЧЕСКИЕ НАВЫКИ
 
-### Базы данных и хранилища данных
-- Реляционные СУБД и MPP-системы: PostgreSQL, Yandex Query (YQ)
-- NoSQL базы данных: Cassandra, MongoDB
-- Хранилища данных (Data Warehouses): Yandex Cloud Data Proc, AWS Redshift / S3
-- Инструменты для работы с данными: Yandex Datalens
+| Категория | Технологии |
+|-----------|------------|
+| **Языки программирования** | Python, SQL |
+| **Фреймворки и библиотеки** | Pandas, Celery |
+| **Парсинг и сбор данных** | Beautiful Soup, Selenium, Playwright, Requests, aiohttp, asyncio |
+| **Большие данные и оркестрация** | Apache Kafka, Apache Airflow, Prefect, Apache Spark |
+| **Базы данных и MPP-системы** | PostgreSQL, MongoDB, Redis, Yandex Query (YQ) |
+| **Хранилища данных** | Yandex Object Storage, AWS Redshift / S3, MinIO |
+| **Инструменты для данных** | Yandex Datalens |
+| **Облачная инфраструктура** | Yandex Cloud (основной), AWS (дополнительно) |
+| **Контейнеризация и DevOps** | Docker, Git, GitHub |
 
-### Облачная инфраструктура и DevOps (DataOps)
-- Облачные платформы: Yandex Cloud (основной), AWS (дополнительно)
-- Контейнеризация и оркестрация: Docker
+## ПРОЕКТЫ И ДОСТИЖЕНИЯ
 
-***
+Т1 Минск: AI-платформа технической поддержки | [Репозиторий](https://github.com/Soln1shko/MINSK-T1)
+
+ЛЦТ Трек 6: Система анализа отзывов | [Репозиторий](https://github.com/Soln1shko/lct)
+
+ВТБ MoreTech: Платформа цифрового рекрутинга | [Репозиторий](https://github.com/Soln1shko/AI-HR)
+
+IT Purple Hack: AI-ассистент для подбора одежды | [Репозиторий](https://github.com/Soln1shko/OFV)
+
+
