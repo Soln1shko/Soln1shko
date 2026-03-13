@@ -36,6 +36,8 @@ Telegram: @TvoiLD
 
 ## ПРОЕКТЫ И ДОСТИЖЕНИЯ
 
+Альфа-Будущее Хакатон: Разработка copilot-приложения для микробизнеса | [Репозиторий](https://github.com/nikita89756/alpha_hack)
+
 Т1 Минск: AI-платформа технической поддержки | [Репозиторий](https://github.com/Soln1shko/MINSK-T1)
 
 ЛЦТ Трек 6: Система анализа отзывов | [Репозиторий](https://github.com/Soln1shko/lct)
