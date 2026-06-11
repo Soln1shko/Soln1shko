@@ -7,7 +7,7 @@
       
 ## О себе
 
-**Data Engineer** | 19 лет | Москва, Россия  
+**Data Engineer** | 20 лет | Москва, Россия  
 Telegram: @TvoiLD
 
 
